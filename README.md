@@ -1,50 +1,48 @@
-- 👋 Hi, I’m @LTx24
-🎓 Final-Year Computer Engineering Student @ Thapar University
-🔐 Cybersecurity Enthusiast | 🤖 AI Explorer | ⚙️ Problem Solver
+# Hi, I'm Lakshya Thakur 👋
+
+🤖 Aspiring AI Engineer | Machine Learning Developer | Deep Learning Enthusiast | Future AI Systems Architect
+
+I’m a Computer Engineering student passionate about building intelligent systems that solve real-world problems using Artificial Intelligence, Machine Learning, and automation. I enjoy learning by building, experimenting, and turning ideas into scalable AI products.
+
+## 🚀 Currently Exploring
+
+* Machine Learning & Deep Learning
+* Computer Vision & Image Intelligence
+* Generative AI & LLM Applications
+* AI Agents & Autonomous Workflows
+* AI Engineering & MLOps
+* Scalable AI System Design
+* Data Structures & Problem Solving
+
+## 🔭 What I’m Working Towards
+
+* Building production-grade AI applications
+* Developing intelligent AI-powered platforms
+* Creating context-aware AI systems for cybersecurity
+* Exploring multimodal AI and agentic workflows
+* Mastering deployment, optimization, and AI scalability
+
+## 🛠️ Tech Stack
+
+Python • TensorFlow • PyTorch • Scikit-Learn • Flask • PostgreSQL • Redis • Elasticsearch • Linux • Git
+
+## 🧠 Interests
+
+* Artificial Intelligence Research
+* AI Product Development
+* Intelligent Automation
+* Cybersecurity & Vulnerability Management
+* Emerging Technologies & Innovation
+
+## 🎯 Goal
+
+To become a world-class AI Engineer building impactful, scalable, and intelligent systems that push technology forward.
 
 ---
 
-## 💡 About Me
+> “Learn deeply. Build consistently. Think intelligently.”
 
-Driven by curiosity and precision, I explore how intelligent systems and digital defenses shape our tech world. Whether it’s securing networks, analyzing threats, or training models to detect patterns—weaving logic with data is where I thrive.
-
----
-
-## 🛡️ My Core Interests
-
-* 🔐 **Cybersecurity** — Proactive defense, vulnerability triage, threat detection, and digital forensics
-* 🤖 **AI/ML** — Data-driven problem solving, predictive modeling, explainable AI, and automation
-* 🧠 **Interdisciplinary Thinking** — Bridging security and intelligence through applied engineering
-
----
-
-## 🧰 My Toolkit
-
-* 🧬 ML & AI workflows: from model training to deployment
-* 📊 Data interpretation: visualizations, insights, patterns
-* 🛠 Cyber tooling: packet analyzers, SIEMs, custom scripts
-* ⚙️ Secure-by-design mindset across code and systems
-
----
-
-## 🌍 Digital Philosophy
-
-I believe the future belongs to those who can understand both how systems break—and how to make them smarter. Learning never stops; I build, break, secure, and iterate.
-
----
-
-> “Secure systems. Smarter models. Sharper minds.”
-
-## 📫 Contact Me
 
 * 📍 Ludhiana, Punjab
 * 🔗 [LinkedIn](https://www.linkedin.com/in/lakshya-thakur-6942b0302/)
 
----
-
-> “Cybersecurity is much more than a matter of IT.” – Stephane Nappo
-
-<!---
-LTx24/LTx24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
